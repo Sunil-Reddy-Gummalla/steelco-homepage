@@ -23,7 +23,7 @@ images/: A directory that contains images used in the website, such as the logo 
 Getting Started
 To run the website locally, follow these steps:
 
-Clone the repository: git clone https://github.com/your-username/steelco-website.git
+Clone the repository: git clone https://github.com/Sunil-Reddy-Gummalla/steelco-homepage.git
 
 Navigate to the project directory: cd steelco-website
 
