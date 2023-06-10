@@ -18,7 +18,7 @@ home.css: The CSS file for the home page, containing styles to customize the app
 
 home.js: The JavaScript file for the home page, which includes functionality for smooth scrolling to sections and a logout button.
 
-images/: A directory that contains images used in the website, such as the logo and service images.
+assests/: A directory that contains images used in the website, such as the logo and service images.
 
 Getting Started
 To run the website locally, follow these steps:
